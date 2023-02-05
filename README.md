@@ -20,7 +20,7 @@
 	   </td>  
 	     <td width="50%">
 
-[![img contact](https://github.com/franckdun/Projet-4_rapport-analyse-audit-SEO/blob/main/README.PNG)](https://github.com/franckdun/Projet-4_rapport-analyse-audit-SEO/blob/main/rapport-audit-SEO.xlsx)
+[![img contact](https://github.com/franckdun/Projet-4_rapport-optimisation/blob/main/readme/readme.PNG)](https://github.com/franckdun/Projet-4_rapport-optimisation/blob/main/La%20Panth%C3%A8re%2C%20agence%20design%20Site%20Web%20(1).pdf)
 	   </td>  
 	 </tr>
  </table>
