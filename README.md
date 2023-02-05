@@ -12,13 +12,13 @@
 
 [ 2 - Rapport d'analyse d'audit SEO ](https://github.com/franckdun/Projet-4_rapport-analyse-audit-SEO/blob/main/rapport-audit-SEO.xlsx)
 
-[ 3 - Rapport d'optimisation ](https://github.com/franckdun/Projet-4_rapport-optimisation)
-
 [ 4 - Retour à ; LA_Panthère_L4 ](https://github.com/franckdun/La_Panthere_L4)
 
 [ 5 - Site Agence web design La Panthère ](https://franckdun.github.io/La_Panthere_L4/la_panthere_agence_web_design.html)
 	   </td>  
 	     <td width="50%">
+		     
+[ 3 - Rapport d'optimisation ](https://github.com/franckdun/Projet-4_rapport-optimisation)
 
 [![img contact](https://github.com/franckdun/Projet-4_rapport-optimisation/blob/main/readme/readme.PNG)](https://github.com/franckdun/Projet-4_rapport-optimisation/blob/main/La%20Panth%C3%A8re%2C%20agence%20design%20Site%20Web%20(1).pdf)
 	   </td>  
